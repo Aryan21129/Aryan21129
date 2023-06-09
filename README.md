@@ -1,4 +1,4 @@
-[![MasterHead]()](https://rishavchanda.io)
+
 
 <h1 align="center">Hi 👋, I'm Aryan</h1>
 <h3 align="center">A passionate Robotics And AI Engineer from India</h3>
