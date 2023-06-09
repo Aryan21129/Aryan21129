@@ -1,4 +1,4 @@
-[![MasterHead](https://blog.zoho.com/sites/zblogs/images/cliq/new-gear-1-converted-2019-10.gif)](https://rishavchanda.io)
+[![MasterHead]()](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Aryan</h1>
 <h3 align="center">A passionate Robotics And AI Engineer from India</h3>
