@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aryan</h1>
 <h3 align="center">A passionate Robotics And AI Engineer from India</h3>
 <img align ="right" alt ="Robots" width="400" src ="https://media.newyorker.com/photos/5bedc34eafa1cb5e0abcac44/master/w_2560%2Cc_limit/181126_r33278.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan21129&label=Profile%20views&color=0e75b6&style=flat" alt="aryan21129" /> </p>
 
 <p align="left"> <a href="https://twitter.com/aryanjagota" target="blank"><img src="https://img.shields.io/twitter/follow/aryanjagota?logo=twitter&style=for-the-badge" alt="aryanjagota" /></a> </p>
@@ -20,8 +21,6 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://bmc.link/Aryanjagota"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://bmc.link/Aryanjagota" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryan21129&show_icons=true&locale=en&layout=compact" alt="aryan21129" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryan21129&show_icons=true&locale=en" alt="aryan21129" /></p>
 
